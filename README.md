@@ -24,7 +24,7 @@ Just require library.
 #= require rogue_girl
 ```
 
-For API, [see more].
+For API, [see more](https://github.com/smolnar/rogue-girl).
 
 ## Contributing
 
